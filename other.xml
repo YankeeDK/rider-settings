@@ -1,0 +1,24 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6331878" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="true" />
+    <property name="KEYMAP" value="quick" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="SettingsSearchHistory" value="code len" />
+    <property name="SplitFileEditor.Proportion" value="0.5462555" />
+    <property name="evlsprt3.182" value="15" />
+    <property name="evlsprt3.183" value="15" />
+    <property name="file.chooser.recent.files" value="C:/Projects/Exercise1/DIKUCanteen/bin/Debug/DIKUCanteen.exe&#10;C:/Projects/Exercise1&#10;C:/Projects&#10;C:/Users/Administrator/Downloads/RiderSettings.jar&#10;C:/Users/Administrator/Dropbox/Datalogi/POP/Opgave 11&#10;C:/Users/Administrator/Dropbox/Datalogi/POP/Opgave 10&#10;C:/Users/Administrator/Dropbox/Datalogi/POP/10g&#10;C:/Program Files (x86)/Microsoft Visual Studio/2017/BuildTools/Common7/IDE/CommonExtensions/Microsoft/FSharp/fsi.exe" />
+    <property name="fileTypeChangedCounter" value="16" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="last_open_file_path" value="$USER_HOME$/Dropbox/Datalogi/POP/Opgave 11" />
+    <property name="last_open_solution_path" value="$USER_HOME$/Dropbox/Datalogi/POP/Opgave 11" />
+    <property name="last_selected_template" value="Console Application|.NET" />
+    <property name="last_selected_template_parameters" value="Type=Class Library;Language=C#;Framework=v4.7.1;" />
+    <property name="settings.code.style.selected.tab.C#" value="Code Style" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
